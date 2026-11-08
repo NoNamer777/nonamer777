@@ -17,7 +17,7 @@ Software Engineer with a focus on building robust, scalable applications across 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-### Frontend Frameworks
+### 🎨 Frontend Frameworks
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -34,13 +34,16 @@ Software Engineer with a focus on building robust, scalable applications across 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-### 🚀 DevOps & Build Tools
+### 🚀 DevOps & Tooling
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-CB3837?style=flat-square&logo=pnpm&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![moon](https://img.shields.io/badge/moon-6F53F3?style=flat-square&logo=moonrepo&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ### 🏠 IoT & Hardware
 
@@ -50,10 +53,16 @@ Software Engineer with a focus on building robust, scalable applications across 
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Science in Information & Communication Technology** (Software Engineering track), The Hague University of Applied Sciences.
+
+---
+
 ## 🔭 Currently working on
 
 - 💼 **Professional:** Medior Software Engineer at **WoodWing**, contributing to enterprise-grade content orchestration and digital asset management solutions.
-- 🎓 **Education:** Finalizing my graduation project to achieve my **Bachelor of Science in Software Engineering**.
-- ⚔️ **Side Project:** Lead developer at [**@dnd-mapp**](https://github.com/dnd-mapp), building a high-performance, containerized Angular platform to streamline TTRPG campaign management and real-time tactical combat.
-- 🏠 **Home Automation:** Refining my self-hosted environment and integrating hardware automation with **Arduino**, **Raspberry Pi** and **Home Assistant**.
-- 🏗 **Architecture:** Deepening my expertise in **NestJS** microservices and shared TypeScript utility libraries.
+- ⚔️ **Side Project:** Lead developer at [**@dnd-mapp**](https://github.com/dnd-mapp), building an open-source platform for Dungeons & Dragons 5e: an **Angular** web app, a **NestJS** backend, and a virtual tabletop that runs on a custom game engine built around the game's rules and mechanics.
+- 🏠 **Home Automation:** Refining my self-hosted environment and integrating hardware automation with **Raspberry Pi** and **Home Assistant**.
+- 🏗 **Architecture:** Designing monorepos and shared TypeScript libraries that several apps build on.
+- 📜 **Next up:** Preparing for the **AWS Certified Cloud Practitioner** certification.
